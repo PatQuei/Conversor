@@ -130,7 +130,7 @@ Resultado: R$ 574,32
 **Patricia Queiroz**
 Desenvolvedora em transição | Apaixonada por tecnologia e inclusão
 
-💼 LinkedIn: [https://www.linkedin.com/in/patricia-pq](https://www.linkedin.com/in/patyqueiroz/)
+💼 LinkedIn: [https://www.linkedin.com/in/patyqueiroz](https://www.linkedin.com/in/patyqueiroz/)
 
 🌐 Portfólio: [https://portifolio-patricia.vercel.app/](https://portifolio-patricia.vercel.app/)
 
